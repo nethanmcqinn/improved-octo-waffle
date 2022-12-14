@@ -3,7 +3,7 @@ function validate()
 var username=document.getElementById("username").value;
 var password=document.getElementById("password").value;
 if(username=="admin"&& password=="user")
-window.open(https://www.youtube.com/watch?v=cKgnDmpb4BU);
+window.open(https://nethanmcqinn.github.io/kate/MyGallery);
 
 
 
